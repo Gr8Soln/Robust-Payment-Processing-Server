@@ -16,7 +16,7 @@ A robust payment processing system built with NestJS, integrating Square API for
 1. Clone the repository
 
 ```bash
-git clone https://github.com/emmanuelayinde/Robust-Payment-Processing-Server.git
+git clone https://github.com/gr8soln/Robust-Payment-Processing-Server.git
 cd Robust-Payment-Processing-Server
 ```
 
